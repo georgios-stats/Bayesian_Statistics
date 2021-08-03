@@ -124,7 +124,7 @@
     
         Example in R
 
--   [17.AsymptoticPosterior.pdf](https://github.com/georgios-stats/Bayesian_Statistics/blob/master/LectureHandouts/17.AsymptoticPosterior.pdf):
+-   [17.AsymptoticPosterior.pdf (updated for lectures in 2021)](https://github.com/georgios-stats/Bayesian_Statistics/blob/master/LectureHandouts/17.AsymptoticPosterior.pdf):
 
     Asymptotic behavior of the posterior (descrete and continuous case)
 
